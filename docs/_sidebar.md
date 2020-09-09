@@ -1,6 +1,9 @@
 * [MAME](mame.md)
 * [SEGA](sega.md)
-* [retrogamingarchive](https://retrogamingarchive.org/)
-* [segadoes](https://segadoes.com/)
-* [romhustler](https://romhustler.org/)
-* [wowroms.com](https://wowroms.com/)
+* 其他站点
+  + [retrogamingarchive](https://retrogamingarchive.org/)
+  + [segadoes.com](https://segadoes.com/)
+  + [romhustler.org](https://romhustler.org/)
+  + [wowroms.com](https://wowroms.com/)
+  + [emurom.net](https://www.emurom.net/)
+  + [romstation.fr](https://www.romstation.fr/)
