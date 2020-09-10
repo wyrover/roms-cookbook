@@ -2,9 +2,15 @@
 
 ### 三国志 II
 
+![](https://www.arcade-museum.com/images/118/118124215853.png)
+
 ### 名将
 
+![](https://www.arcade-museum.com/images/118/1181242065281.png)
+
 ### 恐龙快打
+
+![](https://www.arcade-museum.com/images/118/1181242065213.png)
 
 ### 惩罚者
 
@@ -72,3 +78,5 @@
 ### Area 88
 
 ![](https://photos.wowroms.com/emulators-roms-logo/54/1888/420-420/area88r.jpg)
+
+![](https://www.arcade-museum.com/images/118/118124204831.png)
