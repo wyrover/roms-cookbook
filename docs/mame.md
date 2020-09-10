@@ -38,6 +38,10 @@
 
 ![](https://photos.wowroms.com/emulators-roms-logo/54/1773/420-420/altbeast.jpg)
 
+## Jackal
+
+![](http://www.top80sgames.com/site/sites/default/files/styles/content_cover/public/images/screens/arcjackal3.jpg?itok=fgyrUxP8)
+
 ## 射击类
 
 ### 雷电
@@ -80,3 +84,6 @@
 ![](https://photos.wowroms.com/emulators-roms-logo/54/1888/420-420/area88r.jpg)
 
 ![](https://www.arcade-museum.com/images/118/118124204831.png)
+
+
+### 打击者 1945 加强版
