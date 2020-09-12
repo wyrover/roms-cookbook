@@ -1,6 +1,8 @@
 * [MAME](mame.md)
 * [SEGA](sega.md)
 * [SNES](SNES.md)
+* 音乐原声
+  * [异域战将 Out Zone 原声集](https://www.bilibili.com/s/video/BV175411h7mS)
 * 其他站点
   + [retrostic.com](https://www.retrostic.com/)
   + [retrogamingarchive](https://retrogamingarchive.org/)
