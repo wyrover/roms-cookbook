@@ -1,5 +1,15 @@
 ## 动作类
 
+### 快打旋风 Final Fight 
+
+![](https://www.arcade-museum.com/images/118/1181242106117.png)
+
+![](https://www.arcade-museum.com/images/109/1097548900.jpg)
+
+### 暴力风暴 Violent Storm (ver EAC)
+
+### Night Slashers (Japan Rev 1.2, DE-0397-0 PCB)
+
 ### 圆桌骑士 Knights Of The Round
 
 ![](https://www.arcade-museum.com/images/118/1181242124123.png)
@@ -32,11 +42,19 @@
 
 ![](https://www.arcade-museum.com/images/118/1181242122222.png)
 
+### The King of Dragons (World 910711)
+
+### Streets of Rage II (Mega Play)
+
+### Magic Sword: Heroic Fantasy (World 900725)
+
 ### 脱狱
 
 ![](https://www.arcade-museum.com/images/118/118124214312.png)
 
 ![](https://www.arcade-museum.com/images/118/118124214311.png)
+
+### The King of Dragons
 
 ### 超级魂斗罗
 
@@ -54,15 +72,21 @@
 
 ![](https://www.arcade-museum.com/images/118/118124217039.png)
 
-### 雪人兄弟 2
+### 雪人兄弟 2 Snow Bros. 2 - With New Elves / Otenki Paradise
 
 ![](https://www.arcade-museum.com/images/118/118124217042.png)
 
 ![](https://www.arcade-museum.com/images/118/118124217044.png)
 
+### 飞拳小子 Funky Jet (World, rev 1)
+
+### Dig Dug (rev 2)
+
 ### 战场之狼 II
 
-### 战斧 
+### 战斧 Golden Axe (set 6, US) (8751 317-123A)
+
+### Golden Axe II (Mega-Tech)
 
 ### 兽王记 Altered Beast 
 
@@ -90,15 +114,41 @@
 
 ### 合金弹头
 
+![](https://www.arcade-museum.com/images/118/1181242137287.png)
+
+![](https://www.arcade-museum.com/images/118/1181242137285.png)
+
 ### 合金弹头 2
+
+![](https://www.arcade-museum.com/images/118/1181242137293.png)
+
+![](https://www.arcade-museum.com/images/118/1181242137291.png)
 
 ### 合金弹头 3
 
+![](https://www.arcade-museum.com/images/110/1105923638.jpg)
+
 ### 合金弹头 4
 
-### 合金弹头 5
+![](https://www.arcade-museum.com/images/110/1105194916.jpg)
+
+![](https://www.arcade-museum.com/images/110/1105194393.jpg)
+
+### 合金弹头 5  Metal Slug 5
+
+![](https://www.arcade-museum.com/images/110/1105738494.jpg)
+
+![](https://www.arcade-museum.com/images/110/1105675502.jpg)
 
 ### 合金弹头 X
+
+![](http://www.arcade-museum.com/images/118/1181242137305.png)
+
+![](https://www.arcade-museum.com/images/110/1103247073.jpg)
+
+### In The Hunt (World)
+
+### Wonder 3 (Japan 910520)
 
 ## 射击类
 
@@ -152,7 +202,11 @@
 
 ## 格斗类
 
-### 街头霸王
+### 街头霸王 
+
+### Street Fighter II: The World Warrior (World 910522)
+
+### Hyper Street Fighter II: The Anniversary Edition (USA 040202)
 
 ### 街头霸王降龙加强版
 
@@ -167,6 +221,8 @@
 ### 豪血寺一族 2
 
 ### 豪血寺外传 - 最强传说
+
+### Saturday Night Slam Masters (World 930713)
 
 ### 拳皇 '94
 
@@ -184,13 +240,15 @@
 
 ### 拳皇 2002 - 终极挑战
 
+### 摔跤霸王 Saturday Night Slam Masters (World 930713)
+
 ## 麻将类
 
 ### 幸运满贯
 
 ### 电子基盘3：大三元
 
-## 西游记
+## IGS
 
 ### 释厄传一代
 

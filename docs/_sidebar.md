@@ -1,6 +1,8 @@
 * [MAME](mame.md)
 * [SEGA](sega.md)
+* [SNES](SNES.md)
 * 其他站点
+  + [retrostic.com](https://www.retrostic.com/)
   + [retrogamingarchive](https://retrogamingarchive.org/)
   + [segadoes.com](https://segadoes.com/)
   + [romhustler.org](https://romhustler.org/)
