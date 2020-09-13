@@ -6,7 +6,13 @@
 
 ![](https://www.arcade-museum.com/images/109/1097548900.jpg)
 
+<iframe src="https://www.retrogames.cc/embed/10101-street-smart-final-fight-japan-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+<iframe src="https://www.retrogames.cc/embed/8501-final-fight-japan.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 暴力风暴 Violent Storm (ver EAC)
+
+<iframe src="https://www.retrogames.cc/embed/34696-violent-storm-ver-uac.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### Night Slashers (Japan Rev 1.2, DE-0397-0 PCB)
 
@@ -16,19 +22,31 @@
 
 ![](https://www.arcade-museum.com/images/118/1181242124122.png)
 
+<iframe src="https://www.retrogames.cc/embed/8921-knights-of-the-round-hack-set-2-911127-etc-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+<iframe src="https://www.retrogames.cc/embed/8920-knights-of-the-round-hack-set-1-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 三国志 II
 
 ![](https://www.arcade-museum.com/images/118/118124215853.png)
 
-### 名将
+<iframe src="https://www.retrogames.cc/embed/9740-sangokushi-ii-hack-set-1-921005-asia-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+<iframe src="https://www.retrogames.cc/embed/9750-sangokushi-ii%3A-sanguo-yingxiong-zhuan-chinese-bootleg-set-3-921005-asia-bootleg.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+### 名将 Captain Commando
 
 ![](https://www.arcade-museum.com/images/118/1181242065281.png)
 
-### 恐龙快打
+### 恐龙快打 Cadillacs & Dinosaurs 
 
 ![](https://www.arcade-museum.com/images/118/1181242065213.png)
 
-### 惩罚者
+<iframe src="https://www.retrogames.cc/embed/8043-cadillacs-and-dinosaurs-hack-930201-etc-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+<iframe src="https://www.retrogames.cc/embed/8045-cadillacs-and-dinosaurs-turbo-bootleg-set-2-with-pic16c57-930201-etc-bootleg-no-sound.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+### 惩罚者 The Punisher
 
 ![](https://www.arcade-museum.com/images/118/1181242154104.png)
 
@@ -36,7 +54,7 @@
 
 ![](https://www.arcade-museum.com/images/109/1091861674.jpg)
 
-### 铁钩船长
+### 铁钩船长 Hook
 
 ![](https://www.arcade-museum.com/images/118/1181242122223.png)
 
@@ -62,9 +80,11 @@
 
 ### 俄罗斯方块
 
-### 吸尘小子 Tumblepop
+### 吸尘小子 Tumble pop
 
 ![](https://www.arcade-museum.com/images/118/118124218460.png)
+
+<iframe src="https://www.retrogames.cc/embed/10533-tumble-pop-world.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 雪人兄弟
 
@@ -72,13 +92,21 @@
 
 ![](https://www.arcade-museum.com/images/118/118124217039.png)
 
+<iframe src="https://www.retrogames.cc/embed/9872-snow-bros-nick-tom-set-1.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 雪人兄弟 2 Snow Bros. 2 - With New Elves / Otenki Paradise
 
 ![](https://www.arcade-museum.com/images/118/118124217042.png)
 
 ![](https://www.arcade-museum.com/images/118/118124217044.png)
 
+## Snow Brothers 3 - Magical Adventure [Bootleg]
+
+<iframe src="https://www.retrogames.cc/embed/9877-snow-brothers-3-magical-adventure-bootleg.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 飞拳小子 Funky Jet (World, rev 1)
+
+<iframe src="https://www.retrogames.cc/embed/8563-funky-jet-world-rev-1.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### Dig Dug (rev 2)
 
@@ -95,6 +123,8 @@
 ### Jackal
 
 ![](http://www.top80sgames.com/site/sites/default/files/styles/content_cover/public/images/screens/arcjackal3.jpg?itok=fgyrUxP8)
+
+<iframe src="https://www.retrogames.cc/embed/33698-jackal-world-rotary-joystick.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 落日骑士 4 人游戏
 
@@ -187,6 +217,8 @@
 
 ![](https://photos.wowroms.com/emulators-roms-logo/29/83112/420-420/fixeighta-image.jpg)
 
+<iframe src="https://www.retrogames.cc/embed/8515-fixeight-hong-kong.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### Area 88
 
 ![](https://photos.wowroms.com/emulators-roms-logo/54/1888/420-420/area88r.jpg)
@@ -198,6 +230,8 @@
 ### 战国之刃
 
 ### 战国之刃 2
+
+### Hellfire 
 
 ## 格斗类
 
