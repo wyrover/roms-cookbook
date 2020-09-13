@@ -2,6 +2,7 @@
 * [SEGA](sega.md)
 * [SNES](SNES.md)
 * [NES](NES.md)
+* [GBA](GBA.md)
 * 音乐原声
   + [异域战将 Out Zone 原声集](https://www.bilibili.com/s/video/BV175411h7mS)
   + [out-zone-toaplan-1](https://vgmrips.net/packs/pack/out-zone-toaplan-1)
