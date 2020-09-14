@@ -8,6 +8,10 @@
 
 ### 暴力风暴 Violent Storm (ver EAC)
 
+![](https://www.arcade-museum.com/images/112/1120397368.jpg)
+
+![](https://www.arcade-museum.com/images/105/1053196435.jpg)
+
 ### Night Slashers (Japan Rev 1.2, DE-0397-0 PCB)
 
 ### 圆桌骑士 Knights Of The Round
@@ -80,6 +84,11 @@
 
 ### 飞拳小子 Funky Jet (World, rev 1)
 
+![](https://www.arcade-museum.com/images/109/1093919970.jpg)
+
+### 糊涂忍者
+
+
 ### Dig Dug (rev 2)
 
 ### 战场之狼 II
@@ -87,6 +96,9 @@
 ### 战斧 Golden Axe (set 6, US) (8751 317-123A)
 
 ### Golden Axe II (Mega-Tech)
+
+
+### 流氓大混战
 
 ### 兽王记 Altered Beast 
 
@@ -193,7 +205,17 @@
 
 ![](https://www.arcade-museum.com/images/118/118124204831.png)
 
+
+
+
+
+### 1943
+
+### 1944
+
 ### 打击者 1945 加强版
+
+### 19XX
 
 ### 战国之刃
 
