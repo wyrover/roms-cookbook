@@ -27,3 +27,15 @@
 <iframe src="https://www.retrogames.cc/embed/28561-great-circus-mystery-starring-mickey-minnie-the-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 <iframe src="https://www.retrogames.cc/embed/23810-great-circus-mystery-starring-mickey-minnie-the-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+
+
+## Castlevania - Vampire's Kiss (Europe)
+
+<iframe src="https://www.retrogames.cc/embed/22399-castlevania-vampire-s-kiss-europe.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+
+## Castlevania - Dracula X (USA)
+
+
+<iframe src="https://www.retrogames.cc/embed/23408-castlevania-dracula-x-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
