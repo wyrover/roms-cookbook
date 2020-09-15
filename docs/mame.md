@@ -266,11 +266,15 @@
 
 ### 豪血寺一族
 
+<iframe src="https://www.retrogames.cc/embed/8690-gouketsuji-gaiden-legends-usa-ver-950620.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 豪血寺一族 2
+
+<iframe src="https://www.retrogames.cc/embed/8693-gouketsuji-ichizoku-2-japan-ver-940408.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 豪血寺外传 - 最强传说
 
-### Saturday Night Slam Masters (World 930713)
+<iframe src="https://www.retrogames.cc/embed/9130-matrimelee-shin-gouketsuji-ichizoku-toukon-ngm-2660-ngh-2660.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 拳皇 '94
 
@@ -289,6 +293,8 @@
 ### 拳皇 2002 - 终极挑战
 
 ### 摔跤霸王 Saturday Night Slam Masters (World 930713)
+
+<iframe src="https://www.retrogames.cc/embed/9759-saturday-night-slam-masters-slam-masters-930713-etc.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ## 麻将类
 
