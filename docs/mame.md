@@ -58,6 +58,8 @@
 
 <iframe src="https://www.retrogames.cc/embed/10431-the-punisher-930422-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
+<iframe src="https://www.retrogames.cc/embed/7930-biaofeng-zhanjing-chinese-bootleg-bootleg.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 铁钩船长 Hook
 
 ![](https://www.arcade-museum.com/images/118/1181242122223.png)
@@ -244,7 +246,9 @@
 
 ### 19XX
 
-### 战国之刃
+### 战国之刃 Tengai
+
+<iframe src="https://www.retrogames.cc/embed/10279-tengai.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 战国之刃 2
 
@@ -311,3 +315,10 @@
 ### 三国战记 1
 
 ### 三国战记 2
+
+
+## 体育类
+
+### Super Volley '91 (Japan)
+
+<iframe src="https://www.retrogames.cc/embed/34483-super-volley-91-japan.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
