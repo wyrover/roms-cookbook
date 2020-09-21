@@ -68,6 +68,12 @@
 
 ### The King of Dragons (World 910711)
 
+<iframe src="https://www.retrogames.cc/embed/10340-the-king-of-dragons-910711-etc.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+### The King of Dragons (hack) [Hack]
+
+<iframe src="https://www.retrogames.cc/embed/10343-the-king-of-dragons-hack-hack.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### Streets of Rage II (Mega Play)
 
 ### Magic Sword: Heroic Fantasy (World 900725)
@@ -282,13 +288,17 @@
 
 <iframe src="https://www.retrogames.cc/embed/9130-matrimelee-shin-gouketsuji-ichizoku-toukon-ngm-2660-ngh-2660.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
-### 拳皇 '94
+### 拳皇 '94  The King of Fighters '94 (NGM-055)(NGH-055)
 
 ![](https://www.arcade-museum.com/images/118/118124212440.png)
 
 ![](https://www.arcade-museum.com/images/118/118124212442.png)
 
-### 拳皇 '95
+<iframe src="https://www.retrogames.cc/embed/10348-the-king-of-fighters-94-ngm-055-ngh-055.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+### 拳皇 '95 The King of Fighters '95 (NGM-084)
+
+<iframe src="https://www.retrogames.cc/embed/10350-the-king-of-fighters-95-ngm-084.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 ### 拳皇 '96
 
