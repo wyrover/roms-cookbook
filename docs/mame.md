@@ -84,6 +84,11 @@
 
 ![](https://www.arcade-museum.com/images/118/118124214311.png)
 
+
+### Growl (World)
+
+<iframe src="https://www.retrogames.cc/embed/8712-growl-world.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### The King of Dragons
 
 ### 超级魂斗罗
