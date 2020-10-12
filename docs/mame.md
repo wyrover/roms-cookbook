@@ -275,6 +275,8 @@
 
 ### 街头霸王降龙加强版
 
+<iframe src="https://www.retrogames.cc/embed/10049-street-fighter-ii-xiang-long-bootleg-set-3-811102-001-bootleg.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 ### 侍魂 II
 
 ![](https://www.arcade-museum.com/images/118/1181242158.png)
