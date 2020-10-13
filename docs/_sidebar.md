@@ -1,4 +1,4 @@
-* [MAME](mame.md)
+* [Arcade](mame.md)
 * [SEGA](sega.md)
 * [SNES](SNES.md)
 * [NES](NES.md)
