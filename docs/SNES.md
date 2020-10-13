@@ -51,3 +51,27 @@
 ## Super Mario Advance 4 - Super Mario Bros 3 (E)(Independent)
 
 <iframe src="https://www.retrogames.cc/embed/17574-super-mario-advance-4-super-mario-bros-3-e-independent.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Super Mario Kart (USA) [Hack by Ok Impala v1.0] (~Super Mario Kart - The Impala Battles) (Custom Battle Tracks)
+
+<iframe src="https://www.retrogames.cc/embed/18635-super-mario-kart-usa-hack-by-ok-impala-v1-0-super-mario-kart-the-impala-battles-custom-battle-tracks.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Choplifter III - Rescue Survive (USA)
+
+<iframe src="https://www.retrogames.cc/embed/22426-choplifter-iii-rescue-survive-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Cliffhanger (USA)
+
+<iframe src="https://www.retrogames.cc/embed/23073-cliffhanger-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Death and Return of Superman, The (USA)
+
+<iframe src="https://www.retrogames.cc/embed/24484-death-and-return-of-superman-the-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Demolition Man (USA)
+
+<iframe src="https://www.retrogames.cc/embed/20017-demolition-man-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+## Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan)
+
+<iframe src="https://www.retrogames.cc/embed/22833-do-re-mi-fantasy-milon-no-dokidoki-daibouken-japan.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
