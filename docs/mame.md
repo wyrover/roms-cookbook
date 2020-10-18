@@ -452,3 +452,6 @@ Saturday Night Slam Masters (World 930713)
 ![](https://static.retrogames.cc/previews/shocktr2.png)
 
 <iframe src="https://www.retrogames.cc/embed/9828-shock-troopers-2nd-squad.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+
+1111
